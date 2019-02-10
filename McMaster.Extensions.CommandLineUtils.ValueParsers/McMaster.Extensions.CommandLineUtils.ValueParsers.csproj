@@ -1,0 +1,18 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>netstandard2.0</TargetFramework>
+        <Title>Various helpers for McMaster.Extensions.CommandLineUtils</Title>
+        <Authors>Artyom Sokolov</Authors>
+        <PackageProjectUrl>https://github.com/applicazza/McMaster.Extensions.CommandLineUtils.ValueParsers</PackageProjectUrl>
+        <PackageIconUrl>https://natemcmaster.github.io/CommandLineUtils/logo.png</PackageIconUrl>
+        <RepositoryUrl>https://github.com/applicazza/McMaster.Extensions.CommandLineUtils.ValueParsers</RepositoryUrl>
+        <AssemblyName>Helpers.McMaster.Extensions.CommandLineUtils.ValueParsers</AssemblyName>
+        <PackageId>Helpers.McMaster.Extensions.CommandLineUtils</PackageId>
+    </PropertyGroup>
+
+    <ItemGroup>
+      <PackageReference Include="McMaster.Extensions.CommandLineUtils" Version="2.*" />
+    </ItemGroup>
+
+</Project>
