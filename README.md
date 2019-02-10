@@ -1,8 +1,8 @@
-# Castle.Windsor.Helpers
+# McMaster.Extensions.CommandLineUtils.Helpers
 
 [![](https://img.shields.io/nuget/v/Helpers.McMaster.Extensions.CommandLineUtils.svg?label=Helpers.McMaster.Extensions.CommandLineUtils&style=flat)](https://www.nuget.org/packages/Helpers.McMaster.Extensions.CommandLineUtils/)
 
-Various helpers for `Castle.Windsor.Helpers`
+Various helpers for `McMaster.Extensions.CommandLineUtils`
 
 ## Usage
 
